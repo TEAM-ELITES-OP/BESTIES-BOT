@@ -22,7 +22,7 @@
 
 
 ## STATUS OF THIS BOTS 
-<p align="left"><a href="https://github.com/sameerpanthi/SAVAGE-2.0/network/members"><img src="https://img.shields.io/github/forks/sameerpanthi/SAVAGE-2.0?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/sameerpanthi/SAVAGE-2.0/stargazers"><img src="https://img.shields.io/github/stars/sameerpanthi/SAVAGE-2.0?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/sameerpanthi/SAVAGE-2.0"></a><p align="left"><a href="https://github.com/sameerpanthi/SAVAGE-2.0?"><img src="https://img.shields.io/github/last-commit/sameerpanthi/SAVAGE2.0?style=plastic"></a>
+<p align="left"><a href="https://github.com/sameerpanthi/SAVAGE-2.0/network/members"><img src="https://img.shields.io/github/forks/sameerpanthi/SAVAGE-2.0?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/sameerpanthi/SAVAGE-2.0/stargazers"><img src="https://img.shields.io/github/stars/sameerpanthi/SAVAGE-2.0?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/sameerpanthi/SAVAGE-2.0"></a><p align="left"><a href="https://github.com/sameerpanthi/SAVAGE-2.0?"><img src="https://img.shields.io/github/last-commit/sameerpanthi/SAVAGE-2.0?style=plastic"></a>
 
 
 -------------------------------------------------
