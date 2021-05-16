@@ -34,7 +34,7 @@
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .savage command.",
-      "value": "https://telegra.ph/file/502d3b7372c1c395bba5a.mp4",
+      "value": "https://telegra.ph/file/f3a82860656f0263bc8aa.jpg",
       "required": false
     },
     "BIO_MSG": {
@@ -44,7 +44,7 @@
     },
     "PMPERMIT_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "https://telegra.ph/file/502d3b7372c1c395bba5a.mp4",
+      "value": "https://telegra.ph/file/f3a82860656f0263bc8aa.jpg",
       "required": true
     },
     "CUSTOM_PMPERMIT": {
