@@ -1,7 +1,7 @@
 {                    
   "name": "sAᴠᴀɢᴇ BᴏT",
   "description": "The best userbot made by @SAMEER_795 🤗. Made with Love ❤️ And Phone And Hardwork and... Nhi aur kahi se to nhi bana😂...For Support Join @SAVAGE_USERBOT",
-  "logo": "https://telegra.ph/file/75229ba894ef780332815.jpg",
+  "logo": "https://telegra.ph/file/f3a82860656f0263bc8aa.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,8 +9,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/sameerpanthi/SAVAGE-2.0/",
-  "website": "https://github.com/SAMEERPANTHI/SAVAGE-2.0/",
+  "repository": "https://github.com/sameerpanthi/SAVAGE-2.0-bot/",
+  "website": "https://github.com/SAMEERPANTHI/SAVAGE-2.0-bot/",
   "success_url": "https://t.me/SAVAGE_USERBOT",
   "env": {
     "ENV": {
