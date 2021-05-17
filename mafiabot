@@ -4,10 +4,10 @@
 _get_repolink () {
     local regex
     regex='(https?)://github.com/.+/.+'
-    if [[ $MAFIA_REPO == "savage-2.0-bot" ]]
+    if [[ $MAFIA_REPO == "SAVAGE-2.0-BOT" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL3NhbWVlcnBhbnRoaS9TQVZBR0UtMi4wLVVTRVJCT1Q=" | base64 -d
-    elif [[ $MAFIA_REPO == "savage-2.0-bot" ]]
+    elif [[ $MAFIA_REPO == "SAVAGE-2.0-BOT" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL3NhbWVlcnBhbnRoaS9TQVZBR0UtMi4wLVVTRVJCT1Q=" | base64 -d
     elif [[ $MAFIA_REPO =~ $regex ]]
@@ -41,7 +41,7 @@ _set_bot () {
     echo "
                           ╔═╦═╦══╦══╦══╦══╦══╦═╦══╗
                           ║║║║║╔╗║═╦╩║║╣╔╗║╔╗║║╠╗╔╝
-                                    SAVAGE BOT
+                                    ₴₳V₳₲Ɇ ฿Ø₮ 
                           ╚╩═╩╩╝╚╩╝─╚══╩╝╚╩══╩═╝╚╝
     "
 
