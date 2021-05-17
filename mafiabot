@@ -19,7 +19,7 @@ _get_repolink () {
             echo "${MAFIA_REPO}/archive/master.zip"
         fi
     else
-        echo "aHR0cHM6Ly9naXRodWIuY29tL3NhbWVlcnBhbnRoaS9TQVZBR0UtMi4gMC1VU0VSQk9UL2FyY2hpdmUvbWFzdGVyLnppcA==" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL3NhbWVlcnBhbnRoaS9TQVZBR0UtMi4gMC1VU0VSQk9UL2FyY2hpdmUvbWFzdGVyLnppcA=" | base64 -d
     fi
 }
 
