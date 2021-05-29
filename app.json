@@ -28,8 +28,8 @@
       "required": false
     },
     "ALIVE_MSG": {
-      "description": "Set Custom Alive Message When entering .savage Command.",
-      "value": "😈SAVAGE IS ALIVE😈",
+      "description": "Set Custom Alive Message When entering .awake Command.",
+      "value": "⁂⁂ 𝚂𝙰𝚅𝙰𝙶𝙴 𝙱𝙾𝚃 𝙸𝚂 𝚄𝙿 𝙰𝙽𝙳 𝚁𝚄𝙽𝙽𝙸𝙽𝙶 𝚂𝚄𝙲𝙴𝚂𝚂𝙵𝚄𝙻𝙻𝚈 ⁂⁂",
       "required": false
     },
     "ALIVE_PIC": {
