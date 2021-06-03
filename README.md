@@ -8,15 +8,15 @@
 
 -------------------------------------------------
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/sameerpanthi/SAVAGE-2.0-bot?utm_source=github.com&utm_medium=referral&utm_content=sameerpanthi/SAVAGE-2.0-bot&utm_campaign=Badge_Grade_Settings)
-[![Size](https://img.shields.io/github/repo-size/sameerpanthi/SAVAGE-2.0-BOT?style=flat-square&color=green)](https://github.com/sameerpanthi/SAVAGE-2.0-BOT/)   
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/TEAM-ELITES-OP/ELITES-BOT?utm_source=github.com&utm_medium=referral&utm_content=TEAM-ELITES-OP/ELITES-BOT&utm_campaign=Badge_Grade_Settings)
+[![Size](https://img.shields.io/github/repo-size/sameerpanthi/SAVAGE-2.0-BOT?style=flat-square&color=green)](https://github.com/TEAM-ELITES-OP/ELITES-BOT/)   
 [![Python](https://img.shields.io/badge/Python-v3.9-blue)](https://www.python.org/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/sameerpanthi/SAVAGE-2.0-BOT/graphs/commit-activity)
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/sameerpanthi/SAVAGE-2.0-BOT)   
-[![Contributors](https://img.shields.io/github/contributors/sameerpanthi/SAVAGE-2.0-BOT?style=flat-square&color=green)](https://github.com/sameerpanthi/SAVAGE-2.0-BOT/graphs/contributors)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/TEAM-ELITES-OP/ELITES-BOT/graphs/commit-activity)
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TEAM-ELITES-OP/ELITES-BOT)   
+[![Contributors](https://img.shields.io/github/contributors/TEAM-ELITES-OP/ELITES-BOT?style=flat-square&color=green)](https://github.com/TEAM-ELITES-OP/ELITES-BOT/graphs/contributors)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/sameerpanthi/SAVAGE-2.0-BOT/blob/main/LICENSE)
-[![Sparkline](https://stars.medv.io/Teamultroid/Ultroid.svg)](https://stars.medv.io/sameerpanthi/SAVAGE-2.0-BOT)
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/TEAM-ELITES-OP/ELITES-BOT/blob/main/LICENSE)
+[![Sparkline](https://stars.medv.io/Teamultroid/Ultroid.svg)](https://stars.medv.io/TEAM-ELITES-OP/ELITES-BOT)
 
 -------------------------------------------------
 
@@ -26,7 +26,7 @@
 
 
 ## STATUS OF THIS BOTS 
-<p align="left"><a href="https://github.com/sameerpanthi/SAVAGE-2.0-bot/network/members"><img src="https://img.shields.io/github/forks/sameerpanthi/SAVAGE-2.0-bot?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/sameerpanthi/SAVAGE-2.0-bot/stargazers"><img src="https://img.shields.io/github/stars/sameerpanthi/SAVAGE-2.0-bot?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/sameerpanthi/SAVAGE-2.0-bot"></a><p align="left"><a href="https://github.com/sameerpanthi/SAVAGE-2.0-bot?"><img src="https://img.shields.io/github/last-commit/sameerpanthi/SAVAGE-2.0-bot?style=plastic"></a>
+<p align="left"><a href="https://github.com/TEAM-ELITES-OP/ELITES-BOT/network/members"><img src="https://img.shields.io/github/forks/TEAM-ELITES-OP/ELITES-BOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/TEAM-ELITES-OP/ELITES-BOT/stargazers"><img src="https://img.shields.io/github/stars/TEAM-ELITES-OP/ELITES-BOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/TEAM-ELITES-OP/ELITES-BOT"></a><p align="left"><a href="https://github.com/TEAM-ELITES-OP/ELITES-BOT?"><img src="https://img.shields.io/github/last-commit/TEAM-ELITES-OP/ELITES-BOT?style=plastic"></a>
 
 
 -------------------------------------------------
