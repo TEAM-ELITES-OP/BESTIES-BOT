@@ -4,7 +4,7 @@
 
 <p align="center">
 
-<img src="https://telegra.ph/file/f3a82860656f0263bc8aa.jpg">
+<img src="https://telegra.ph/file/a65900c74cb9a0bd89c11.jpg">
 
 -------------------------------------------------
 
@@ -31,31 +31,28 @@
 
 -------------------------------------------------
 
-匚尺乇卂ㄒㄖ尺 : [丂卂爪乇乇尺](https://t.me/SAMEER_795)
+𝐂𝐑𝐄𝐀𝐓𝐎𝐑 : [𝐓𝐄𝐀𝐌 𝐄𝐋𝐈𝐓𝐄𝐒](https://t.me/ELITES_OFFICIAL)                
 
 -------------------------------------------------
 
 ## Join our Support Channel and Group regrading bug fixes
 
-<a href="https://t.me/joinchat/0KCyT0MHyAhmMmRl"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
-<a href="https://t.me/joinchat/qCIk-af6VW1kNDll"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
+<a href="t.me/ELITE_BOT_OFFICIAL"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
+<a href="t.me/ELITES_USERBOT"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
 
 -------------------------------------------------
 
 ## FOR DEPLOY BOT 
 
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sameerpanthi/SAVAGE-2.0-bOT)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TEAM-ELITES-OP/ELITES-BOT)
 
 ------------------------------------------------
 
 TAKE STRING FROM HERE -
 
-[![REPL](https://repl.it/badge/github/spandey112/SensibleUserbot)](https://replit.com/@sameerpanthi/SAVAGE-BOT#main.py)
+[![REPL](https://repl.it/badge/github/spandey112/SensibleUserbot)]()
     
 -------------------------------------------------
 
 
-CREIDTS -
-
-# [MAFIA BOT](https://github.com/H1M4N5HU0P/MAFIA-USERBOT)
