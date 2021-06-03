@@ -1,7 +1,7 @@
 FROM sandy1709/catuserbot:alpine
 
-#clonning repo 
-RUN git clone https://github.com/sameerpanthi/SAVAGE-2.0-USERBOT.git /root/userbot
+#clonning repo                   
+RUN git clone https://github.com/TEAM-ELITES-OP/ELITES-BOT.git /root/userbot
 #working directory 
 WORKDIR /root/userbot
 
