@@ -1,7 +1,7 @@
-{                    
-  "name": "𝐒𝐀𝐕𝐀𝐆𝐄 𝐔𝐒𝐄𝐑𝐁𝐎𝐓",
-  "description": "The best userbot made by @SAMEER_795 🤗. Made with Love ❤️ And Phone And Hardwork and... Nhi aur kahi se to nhi bana😂...For Support Join @SAVAGE_USERBOT",
-  "logo": "https://telegra.ph/file/f3a82860656f0263bc8aa.jpg",
+{                                          
+  "name": "𝐄𝐋𝐈𝐓𝐄𝐒 𝐔𝐒𝐄𝐑𝐁𝐎𝐓",
+  "description": "𝚃𝙷𝙴 𝙱𝙴𝚂𝚃 𝚄𝚂𝙴𝚁𝙱𝙾𝚃 𝙼𝙰𝙳𝙴 𝙱𝚈 - @INNOCENT_ELITEBOY 🤗. 𝙼𝙰𝙳𝙴 𝚆𝙸𝚃𝙷 𝙻𝙾𝚅𝙴 ❤️ 𝙰𝙽𝙳 𝙿𝙷𝙾𝙽𝙴 𝙰𝙽𝙳 𝙷𝙰𝚁𝙳𝚆𝙾𝚁𝙺 𝙰𝙽𝙳 .. 𝙽𝙷𝙸 𝙰𝚄𝚁 𝙺𝙰𝙷𝙸 𝚂𝙴 𝙽𝙷𝙸 𝙱𝙰𝙽𝙰😂...𝙵𝙾𝚁 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝙹𝙾𝙸𝙽 @ELITES_USERBOT",
+  "logo": "https://telegra.ph/file/c76453380cd376c960163.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/sameerpanthi/SAVAGE-2.0-bot/",
-  "website": "https://github.com/SAMEERPANTHI/SAVAGE-2.0-bot/",
-  "success_url": "https://t.me/SAVAGE_USERBOT",
+  "repository": "https://github.com/TEAM-ELITES-OP/ELITES-BOT/",
+  "website": "https://github.com/TEAM-ELITES-OP/ELITES-BOT/",
+  "success_url": "https://t.me/ELITES_USERBOT",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
@@ -23,28 +23,28 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name or Username like @SAMEER_795.",
-      "value": "@SAVAGE_USERBOT",
+      "description": "Fill your Full name or Username like @INNOCENT_ELITEBOY.",
+      "value": "@ELITES_USERBOT",
       "required": false
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .awake Command.",
-      "value": "⁂⁂ 𝚂𝙰𝚅𝙰𝙶𝙴 𝙱𝙾𝚃 𝙸𝚂 𝚄𝙿 𝙰𝙽𝙳 𝚁𝚄𝙽𝙽𝙸𝙽𝙶 𝚂𝚄𝙲𝙴𝚂𝚂𝙵𝚄𝙻𝙻𝚈 ⁂⁂",
+      "value": "⁂⁂ 𝙴𝙻𝙸𝚃𝙴𝚂 𝙱𝙾𝚃 𝙸𝚂 𝚄𝙿 𝙰𝙽𝙳 𝚁𝚄𝙽𝙽𝙸𝙽𝙶 𝚂𝚄𝙲𝙴𝚂𝚂𝙵𝚄𝙻𝙻𝚈 ⁂⁂",
       "required": false
-    },
+    },              
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .savage command.",
-      "value": "https://telegra.ph/file/f3a82860656f0263bc8aa.jpg",
+      "value": "https://telegra.ph/file/c76453380cd376c960163.jpg",
       "required": false
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "😈𝐋𝐄𝐆𝐄𝐍𝐃𝐒 𝐀𝐋𝐖𝐀𝐘𝐒 𝐔𝐒𝐄 𝐒𝐀𝐕𝐀𝐆𝐄 𝐁𝐎𝐓😈",
+      "value": "😈𝐋𝐄𝐆𝐄𝐍𝐃𝐒 𝐀𝐋𝐖𝐀𝐘𝐒 𝐔𝐒𝐄 ELITES BOT😈",
       "required": false
     },
     "PMPERMIT_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "https://telegra.ph/file/f3a82860656f0263bc8aa.jpg",
+      "value": "https://telegra.ph/file/c76453380cd376c960163.jpg",
       "required": true
     },
     "CUSTOM_PMPERMIT": {
@@ -121,7 +121,7 @@
       "required": true
     },
     "TG_BOT_TOKEN_BF_HER": {
-      "description": "Needed for inline buttons maker. Make a bot at [BotFather](http://telegram.dog/BotFather) and get the token of your bot. And Don't Forget To Turn on inline Mode on bot settings. Get it.",
+      "description": "Needed for inline buttons maker. Make a bot at t.me/BotFather and get the token of your bot. And Don't Forget To Turn on inline Mode on bot settings. Get it.",
       "value": ""
     },
     "CHROME_BIN": {
