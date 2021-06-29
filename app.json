@@ -24,7 +24,7 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name or Username like @ELITEBOY_OFFICIAL.",
-      "value": "",
+      "value": "URNAME",
       "required": false
     },
     "ALIVE_MSG": {
@@ -54,7 +54,7 @@
     },
     "PM_PERMIT_GROUP_ID": {
       "description": "Put an Group Id Same As PRIVATE_GROUP_ID Required For Pmpermit plugin.",
-      "value": "",
+      "value": "-336323518",
       "required": true
     },
     "APP_ID": {
@@ -104,7 +104,7 @@
     },
     "PM_LOGGR_BOT_API_ID": {
        "description": "for login private messages create a private channel and do .get_id and add that id", 
-       "value": ""
+       "value": "-336323518"
     }, 
     "STRING_SESSION": {
       "description": "Get this value by running https://repl.it/badge/github/spandey112/SensibleUserbot ",
