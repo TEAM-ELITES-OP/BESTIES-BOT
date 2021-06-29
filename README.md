@@ -1,4 +1,4 @@
-𝐄𝐋𝐈𝐓𝐄𝐒 𝐁𝐎𝐓🔥
+𝗕𝗘𝗦𝗧𝗜𝗘𝗦 𝗕𝗢𝗧🔥
 
 
 
@@ -31,7 +31,7 @@
 
 -------------------------------------------------
 
-匚尺乇卂ㄒㄖ尺 : [乇ㄥ|ㄒ乇 乃ㄖㄚ](https://t.me/XD_ELITEBOY_XD)              
+匚尺乇卂ㄒㄖ尺 : [乇ㄥ|ㄒ乇 乃ㄖㄚ](https://t.me/ELITEBOY_OFFICIAL)              
 
 -------------------------------------------------
 
@@ -45,7 +45,7 @@
 ## FOR DEPLOY BOT 
 
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TEAM-ELITES-OP/ELITES-BOT)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TEAM-ELITES-OP/BESTIES-BOT)
 
 ------------------------------------------------
 
