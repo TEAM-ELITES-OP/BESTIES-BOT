@@ -1,7 +1,7 @@
 {                                          
-  "name": "𝐄𝐋𝐈𝐓𝐄𝐒 𝐔𝐒𝐄𝐑𝐁𝐎𝐓",
-  "description": "𝚃𝙷𝙴 𝙱𝙴𝚂𝚃 𝚄𝚂𝙴𝚁𝙱𝙾𝚃 𝙼𝙰𝙳𝙴 𝙱𝚈 - @XD_ELITEBOY_XD 🤗. 𝙼𝙰𝙳𝙴 𝚆𝙸𝚃𝙷 𝙻𝙾𝚅𝙴 ❤️ 𝙰𝙽𝙳 𝙿𝙷𝙾𝙽𝙴 𝙰𝙽𝙳 𝙷𝙰𝚁𝙳𝚆𝙾𝚁𝙺 𝙰𝙽𝙳 .. 𝙽𝙷𝙸 𝙰𝚄𝚁 𝙺𝙰𝙷𝙸 𝚂𝙴 𝙽𝙷𝙸 𝙱𝙰𝙽𝙰😂...𝙵𝙾𝚁 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝙹𝙾𝙸𝙽 @ELITES_USERBOT",
-  "logo": "https://telegra.ph/file/c76453380cd376c960163.jpg",
+  "name": "BESTIES BOT",
+  "description": "𝚃𝙷𝙴 𝙱𝙴𝚂𝚃 𝚄𝚂𝙴𝚁𝙱𝙾𝚃 𝙼𝙰𝙳𝙴 𝙱𝚈 - @ELITESBOY_OFFICIAL 🤗. 𝙼𝙰𝙳𝙴 𝚆𝙸𝚃𝙷 𝙻𝙾𝚅𝙴 ❤️ 𝙰𝙽𝙳 𝙿𝙷𝙾𝙽𝙴 𝙰𝙽𝙳 𝙷𝙰𝚁𝙳𝚆𝙾𝚁𝙺 𝙰𝙽𝙳 .. 𝙽𝙷𝙸 𝙰𝚄𝚁 𝙺𝙰𝙷𝙸 𝚂𝙴 𝙽𝙷𝙸 𝙱𝙰𝙽𝙰😂...𝙵𝙾𝚁 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝙹𝙾𝙸𝙽 @ELITES_USERBOT",
+  "logo": "https://telegra.ph/file/74686cebff547b3cd20da.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,8 +9,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/TEAM-ELITES-OP/ELITES-BOT/",
-  "website": "https://github.com/TEAM-ELITES-OP/ELITES-BOT/",
+  "repository": "https://github.com/TEAM-ELITES-OP/BESTIES-BOT/",
+  "website": "https://github.com/TEAM-ELITES-OP/BESTIES-BOT/",
   "success_url": "https://t.me/ELITES_USERBOT",
   "env": {
     "ENV": {
@@ -23,28 +23,28 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name or Username like @INNOCENT_ELITEBOY.",
+      "description": "Fill your Full name or Username like @ELITEBOY_OFFICIAL.",
       "value": "",
       "required": false
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .awake Command.",
-      "value": "⁂⁂ 𝙴𝙻𝙸𝚃𝙴𝚂 𝙱𝙾𝚃 𝙸𝚂 𝚄𝙿 𝙰𝙽𝙳 𝚁𝚄𝙽𝙽𝙸𝙽𝙶 𝚂𝚄𝙲𝙴𝚂𝚂𝙵𝚄𝙻𝙻𝚈 ⁂⁂",
+      "value": "⁂⁂ 𝙱𝙴𝚂𝚃𝙸𝙴𝚂 𝙱𝙾𝚃 𝙸𝚂 𝚄𝙿 𝙰𝙽𝙳 𝚁𝚄𝙽𝙽𝙸𝙽𝙶 𝚂𝚄𝙲𝙴𝚂𝚂𝙵𝚄𝙻𝙻𝚈 ⁂⁂",
       "required": false
     },              
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .savage command.",
-      "value": "https://telegra.ph/file/c76453380cd376c960163.jpg",
+      "value": "https://telegra.ph/file/74686cebff547b3cd20da.jpg",
       "required": false
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "😈𝐋𝐄𝐆𝐄𝐍𝐃𝐒 𝐀𝐋𝐖𝐀𝐘𝐒 𝐔𝐒𝐄 ELITES BOT😈",
+      "value": "😈BESTIES BOT OP😈",
       "required": false
     },
     "PMPERMIT_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "https://telegra.ph/file/1ffb1e852ca0e29b6b5ff.jpg",
+      "value": "https://telegra.ph/file/74686cebff547b3cd20da.jpg",
       "required": true
     },
     "CUSTOM_PMPERMIT": {
